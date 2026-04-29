@@ -28,3 +28,6 @@ build/
 # Firebase
 firebase-service-account.json
 node_modules
+
+PRD.txt
+/Explanation

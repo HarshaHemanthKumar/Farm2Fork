@@ -1,0 +1,16 @@
+{
+  "name": "farm2fork",
+  "version": "1.0.0",
+  "description": "Farm2Fork - Farmer Direct-to-Consumer Fresh Produce Marketplace",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "backend"
+  ],
+  "scripts": {
+    "backend:dev": "cd backend && npm run dev",
+    "backend:start": "cd backend && npm start",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down"
+  }
+}

@@ -1,6 +1,0 @@
-{
-  "name": "@farm2fork/ui-shared",
-  "version": "1.0.0",
-  "main": "index.js",
-  "description": "Shared UI components for Farm2Fork React Native apps"
-}

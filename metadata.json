@@ -1,0 +1,6 @@
+{
+  "name": "Farm2Fork",
+  "description": "Direct Farm-to-Consumer Marketplace with a built-in micro-logistics layer.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
